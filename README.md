@@ -1,11 +1,8 @@
-<h1 style="font-size:2.3rem;
-    color: #f09199; text-align-center;">
+<h1>
     ¡Hi! I'm Kari 🌺
 </h1>
-<h2 style=" text-align-center; color: #7c788b">
-  
+<h2>
   and I'm a Web Developer
-
 </h2>
 
 <!--
