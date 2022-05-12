@@ -4,8 +4,8 @@
 I started to study Web Development in 2022 and now I'm studying in Educación IT a full program of Full-Stack Web Developer. I love design and resolve problems. I'm apassionate of Frontend. I spend my days increasing my knowledge to enter the technology industry and learning English on my own.</p>
 
 
-### _Technologies_
-<div style="display: inline_block"><br>
+### Hard Skills:
+<div>
   <img align="center" alt="Kari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
