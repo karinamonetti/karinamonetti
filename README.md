@@ -2,6 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=74c580&height=200&text=Hi!%20I'm%20Kari!%20🌼&textBg=tru&animation=fadeIn&fontColor=172719)
 ## _I'm a Web Developer Jr._ 👧
 I started studying Web Development in 2022 and I'm currently going through a Full-Stack Development program on Educacion IT. 
+
 I love designing and solving problems. I'm passionate about front-end. I spend most of my days increasing my tech-related and English  knowledge to switch careers and break into the tech industry.
 
 
