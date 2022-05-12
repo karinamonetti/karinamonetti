@@ -1,5 +1,5 @@
 <h1>
-    ¡Hi! I'm Kari 🌺 and I'm a Web Developer
+    Hi! I'm Kari 🌺 and I'm a Web Developer 👩‍💻
 </h1>
 
 
