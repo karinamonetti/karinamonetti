@@ -1,6 +1,14 @@
-<h1>
-    Hi! I'm Kari 🌺 and I'm a Web Developer 👩‍💻
-</h1>
+
+# Hi! I'm Kari 🌺 and I'm a Web Developer 
+### _Hard Skills_
+ 🙨 HTML & CSS (Bootstrap, Bulma, Flex & GRID, Materialize)
+
+ 🙨 JavaScript 
+
+ 🙨 WordPress
+
+ 🙨 English B1
+
 
 
 <!--
