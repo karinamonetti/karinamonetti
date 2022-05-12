@@ -1,9 +1,7 @@
 <h1>
-    ¡Hi! I'm Kari 🌺
+    ¡Hi! I'm Kari 🌺 and I'm a Web Developer
 </h1>
-<h2>
-  and I'm a Web Developer
-</h2>
+
 
 <!--
 **karinamonetti/karinamonetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
