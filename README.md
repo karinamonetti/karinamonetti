@@ -5,12 +5,13 @@ I started to study Web Development in 2022 and now I'm studying in Educación IT
 
 
 ### _Hard Skills_
-<ul>
- <li>HTML & CSS (Bootstrap, Bulma, Flex & GRID, Materialize)</li>
- <li>JavaScript</li>
- <li>WordPress</li>
- <li>English B1</li>
-</ul>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Kari-WordPress" height="30" width="30" src="https://seeklogo.com/images/W/wordpress-logo-9F351E1870-seeklogo.com.png">
+</div><br>
+
 
 ### You can find me on:
 <a href="https://www.linkedin.com/in/karinamonetti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:karinamonetti.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
